@@ -1,0 +1,6 @@
+@media all and (min-width: 1024px) {
+  #container div {
+    width: 500px;
+    height: 500px;
+  }
+} /* de 1048px minimo hacia adelante */

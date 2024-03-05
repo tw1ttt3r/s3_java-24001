@@ -1,0 +1,10 @@
+/* @media all and (min-width: 640px) and (max-width: 1047px) { */
+  #container {
+    background-color: blue;
+  }
+
+  #container div {
+    width: 350px;
+    height: 350px;
+  }
+/*}*/ /* 640px hasta 1047px */

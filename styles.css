@@ -21,14 +21,3 @@ div img {
   width: 100%;
   height: 100%;
 }
-
-/* breakpoint */
-/* chicos menores a 640px */
-/* medianos minimo 640px y maximo 1047px */
-/* grandes minimo 1048px */
-
-@media all and (max-width: 639px) {} /* 0px hasta 639px */
-
-@media all and (min-width: 640px) and (max-width: 1047px) {} /* 640px hasta 1047px */
-
-@media all and (min-width: 1024px) {} /* de 1048px minimo hacia adelante */
